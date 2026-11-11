@@ -1,0 +1,11 @@
+# Build output
+build/
+out/
+compile_commands.json
+
+# Editor / tooling caches
+.cache/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
